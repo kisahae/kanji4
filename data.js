@@ -43,4 +43,32 @@ export let kanji = [
     hint: "Rainbow",
     answer: "虹"
   },
+       {
+    hint: "Want",
+    answer: "欲しい"
+  },
+         {
+    hint: "Strawberry",
+    answer: "苺"
+  },
+   {
+    hint: "Peach",
+    answer: "桃"
+  },
+     {
+    hint: "Movie",
+    answer: "映画"
+  },
+       {
+    hint: "Actor",
+    answer: "俳優"
+  },
+        {
+    hint: "Bag (Big Size)",
+    answer: "鞄"
+  },
+           {
+    hint: "Bag (Small Size)",
+    answer: "袋"
+  },
 ]
