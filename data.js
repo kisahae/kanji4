@@ -71,4 +71,52 @@ export let kanji = [
     hint: "Bag (Small Size)",
     answer: "袋"
   },
+            {
+    hint: "Thirsty",
+    answer: "渇いた"
+  },
+               {
+    hint: "Thirsty",
+    answer: "渇いた"
+  },
+                {
+    hint: "Throat",
+    answer: "喉"
+  },
+                 {
+    hint: "Throat",
+    answer: "喉"
+  },
+   {
+    hint: "Hungry",
+    answer: "空いた"
+  },
+    {
+    hint: "Stomach",
+    answer: "お腹"
+  },
+     {
+    hint: "Forest",
+    answer: "森"
+  },
+      {
+    hint: "Impossible",
+    answer: "無理"
+  },
+       {
+    hint: "To Protect",
+    answer: "守る"
+  },
+        {
+    hint: "Magic",
+    answer: "魔法"
+  },
+         {
+    hint: "Candy",
+    answer: "飴"
+  },     
+   {
+    hint: "Apple",
+    answer: "林檎"
+  },
 ]
