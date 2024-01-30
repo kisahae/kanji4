@@ -75,15 +75,7 @@ export let kanji = [
     hint: "Thirsty",
     answer: "渇いた"
   },
-               {
-    hint: "Thirsty",
-    answer: "渇いた"
-  },
                 {
-    hint: "Throat",
-    answer: "喉"
-  },
-                 {
     hint: "Throat",
     answer: "喉"
   },
@@ -118,5 +110,33 @@ export let kanji = [
    {
     hint: "Apple",
     answer: "林檎"
+  },
+     {
+    hint: "Apple",
+    answer: "林檎"
+  },
+      {
+    hint: "coffee shop",
+    answer: "喫茶店"
+  },
+       {
+    hint: "Next/Beside",
+    answer: "隣"
+  },
+         {
+    hint: "Intersection",
+    answer: "交差点"
+  },
+            {
+    hint: "Left Side",
+    answer: "左側"
+  },
+              {
+    hint: "Bridge",
+    answer: "橋"
+  },
+   {
+    hint: "Cross/To pass through",
+    answer: "渡る"
   },
 ]
