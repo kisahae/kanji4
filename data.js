@@ -111,10 +111,6 @@ export let kanji = [
     hint: "Apple",
     answer: "林檎"
   },
-     {
-    hint: "Apple",
-    answer: "林檎"
-  },
       {
     hint: "coffee shop",
     answer: "喫茶店"
@@ -138,5 +134,17 @@ export let kanji = [
    {
     hint: "Cross/To pass through",
     answer: "渡る"
+  },
+    {
+    hint: "Broken",
+    answer: "壊れる"
+  },
+       {
+    hint: "Together",
+    answer: "一緒"
+  },
+          {
+    hint: "Swim",
+    answer: "泳ぐ"
   },
 ]
