@@ -147,4 +147,48 @@ export let kanji = [
     hint: "Swim",
     answer: "泳ぐ"
   },
+          {
+    hint: "Swim",
+    answer: "泳ぐ"
+  },
+            {
+    hint: "Carrot",
+    answer: "人参"
+  },
+               {
+    hint: "Radish",
+    answer: "大根"
+  },
+                {
+    hint: "Salt",
+    answer: "塩"
+  },
+                 {
+    hint: "The day before tomorrow",
+    answer: "一昨日"
+  },
+                  {
+    hint: "Bicycle",
+    answer: "自転車"
+  },
+                    {
+    hint: "Salt",
+    answer: "塩"
+  },
+                       {
+    hint: "Turtle",
+    answer: "亀"
+  },
+                        {
+    hint: "Snake",
+    answer: "蛇"
+  },
+                         {
+    hint: "Snow",
+    answer: "雪"
+  },
+                         {
+    hint: "Joke",
+    answer: "冗談"
+  },
 ]
