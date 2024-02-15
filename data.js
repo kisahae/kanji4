@@ -172,8 +172,16 @@ export let kanji = [
     answer: "自転車"
   },
                     {
-    hint: "Salt",
-    answer: "塩"
+    hint: "Airplane",
+    answer: "飛行機"
+  },
+                      {
+    hint: "Travel",
+    answer: "旅行"
+  },
+                       {
+    hint: "Key",
+    answer: "鍵"
   },
                        {
     hint: "Turtle",
@@ -190,5 +198,13 @@ export let kanji = [
                          {
     hint: "Joke",
     answer: "冗談"
+  },
+                           {
+    hint: "Ship",
+    answer: "船"
+  },
+                            {
+    hint: "Luke Warm",
+    answer: "温い"
   },
 ]
