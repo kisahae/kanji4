@@ -207,4 +207,24 @@ export let kanji = [
     hint: "Luke Warm",
     answer: "温い"
   },
+{
+    hint: "Play",
+    answer: "遊ぶ"
+  },
+   {
+    hint: "Differ",
+    answer: "違う"
+  },
+    {
+    hint: "To Ask (To do something)",
+    answer: "頼む"
+  },
+   {
+    hint: "To Stop",
+    answer: " 止まる"
+  },
+     {
+    hint: "To Suck",
+    answer: " 吸う"
+  }
 ]
