@@ -221,10 +221,14 @@ export let kanji = [
   },
    {
     hint: "To Stop",
-    answer: " 止まる"
+    answer: "止まる"
   },
      {
     hint: "To Suck",
-    answer: " 吸う"
+    answer: "吸う"
+  },
+  {
+    hint: "Answer (Verb)",
+    answer: " 答える"
   }
 ]
