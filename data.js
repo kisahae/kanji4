@@ -229,6 +229,54 @@ export let kanji = [
   },
   {
     hint: "Answer (Verb)",
-    answer: " 答える"
+    answer: "答える"
+  },
+   {
+    hint: "Music",
+    answer: "音楽"
+  },
+    {
+    hint: "Take (Picture)",
+    answer: "撮る"
+  },
+     {
+    hint: "Cut",
+    answer: "切る"
+  },
+       {
+    hint: "Send (Package or Message)",
+    answer: "送る"
+  },
+        {
+    hint: "Send (Package or Message)",
+    answer: "送る"
+  },
+         {
+    hint: "Teach/Tell",
+    answer: "教える"
+  },
+            {
+    hint: "Study",
+    answer: "習う"
+  },
+             {
+    hint: "To Get Married",
+    answer: "結婚する"
+  },
+              {
+    hint: "To Get Married",
+    answer: "結婚する"
+  },
+                 {
+    hint: "Divorce",
+    answer: "離婚する"
+  },
+                   {
+    hint: "Delete/Erase/Turn off",
+    answer: "消す"
+  },
+                     {
+    hint: "To Add/To Attach/Turn On",
+    answer: "付ける"
   }
 ]
