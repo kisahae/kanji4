@@ -278,5 +278,57 @@ export let kanji = [
                      {
     hint: "To Add/To Attach/Turn On",
     answer: "付ける"
-  }
+  },
+                      {
+    hint: "Hurry",
+    answer: "急ぐ"
+  },
+                        {
+    hint: "Wait",
+    answer: "待つ"
+  },
+                          {
+    hint: "Use",
+    answer: "使う"
+  },
+                         {
+    hint: "Put",
+    answer: "置く"
+  },
+                            {
+    hint: "Live",
+    answer: "住む"
+  },
+                              {
+    hint: "Phone Call",
+    answer: "電話する"
+  },
+                               {
+    hint: "Memorize",
+    answer: "覚える"
+  },
+   
+                               {
+    hint: "Forget",
+    answer: "忘れる"
+  },
+   
+                               {
+    hint: "Pay",
+    answer: "払う"
+  },
+                                {
+    hint: "Return",
+    answer: "返す"
+  },
+                         {
+    hint: "Worry",
+    answer: "心配する"
+  },
+   
+                         {
+    hint: "Work Overtime",
+    answer: "残業します"
+  },
+   
 ]
