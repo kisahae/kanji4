@@ -148,8 +148,8 @@ export let kanji = [
     answer: "泳ぐ"
   },
           {
-    hint: "Swim",
-    answer: "泳ぐ"
+    hint: "Desk",
+    answer: "机"
   },
             {
     hint: "Carrot",
@@ -248,8 +248,8 @@ export let kanji = [
     answer: "送る"
   },
         {
-    hint: "Send (Package or Message)",
-    answer: "送る"
+    hint: "Police/Police Station",
+    answer: "警察"
   },
          {
     hint: "Teach/Tell",
@@ -264,8 +264,8 @@ export let kanji = [
     answer: "結婚する"
   },
               {
-    hint: "To Get Married",
-    answer: "結婚する"
+    hint: "Recommendation",
+    answer: "お勧め"
   },
                  {
     hint: "Divorce",
@@ -330,5 +330,8 @@ export let kanji = [
     hint: "Work Overtime",
     answer: "残業します"
   },
-   
+                            {
+    hint: "Change (Money)",
+    answer: "お釣り"
+  }
 ]
