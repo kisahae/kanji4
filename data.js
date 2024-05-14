@@ -333,5 +333,49 @@ export let kanji = [
                             {
     hint: "Change (Money)",
     answer: "お釣り"
+  },
+                               {
+    hint: "Dresser (Money)",
+    answer: "箪笥"
+  },
+                               {
+    hint: "Cotton Swabs",
+    answer: "綿棒"
+  },
+                               {
+    hint: "Ruler",
+    answer: "定規"
+  },
+                               {
+    hint: "Scissors",
+    answer: "鋏"
+  },
+                               {
+    hint: "Eraser",
+    answer: "消しゴム"
+  },
+                               {
+    hint: "Meeting",
+    answer: "会議"
+  },
+                               {
+    hint: "President (Company)",
+    answer: "社長"
+  },
+                               {
+    hint: "Salary",
+    answer: "給料"
+  },
+                               {
+    hint: "Leopard",
+    answer: "豹"
+  },
+                               {
+    hint: "Hipopotamus",
+    answer: "河馬"
+  },
+                               {
+    hint: "Many",
+    answer: "沢山"
   }
 ]
