@@ -377,5 +377,9 @@ export let kanji = [
                                {
     hint: "Many",
     answer: "沢山"
+  },
+                                  {
+    hint: "The Previous Day",
+    answer: "前日"
   }
 ]
