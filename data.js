@@ -381,5 +381,56 @@ export let kanji = [
                                   {
     hint: "The Previous Day",
     answer: "前日"
-  }
+  },
+                                  {
+    hint: "Tall",
+    answer: "長身"
+  },
+                                    {
+    hint: "Skilled",
+    answer: "上手"
+  },
+                                    {
+    hint: "On the way from school",
+    answer: "下校"
+  },
+                                      {
+    hint: "Southeast",
+    answer: "東南"
+  },
+                                       {
+    hint: "Elementary School",
+    answer: "小学生"
+  }, 
+                                       {
+    hint: "Life",
+    answer: "人生"
+  },
+{
+    hint: "Draft Beer",
+    answer: "生ビール"
+  },
+   {
+    hint: "Boy",
+    answer: "男子"
+  },
+   {
+    hint: "Girl",
+    answer: "女子"
+  },
+     {
+    hint: "Factory",
+    answer: "工場"
+  } ,
+        {
+    hint: "Field Trip",
+    answer: "見学"
+  },
+{
+    hint: "Wide",
+    answer: "広い"
+},
+   {
+    hint: "Onsen",
+    answer: "温泉"}
 ]
